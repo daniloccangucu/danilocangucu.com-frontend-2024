@@ -1,0 +1,9 @@
+.dashed {
+    border: none;
+    border-top: 5px dashed black;
+    width: 100%;
+}
+
+nav {
+    height: 60px;
+}
