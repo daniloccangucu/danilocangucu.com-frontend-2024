@@ -1,6 +1,6 @@
 function TextSection() {
     return (
-        <div className="flex-none mt-10">
+        <div className="mt-6">
             <h1 className="familjen-grotesk-700 h1-intro text-left">
                 Hi!<br />
                 {`I create beautiful websites. :)`}

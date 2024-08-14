@@ -1,16 +1,11 @@
-import './Home.css'
-import TextSection from './TextSection';
-import ImageSection from './ImageSection';
+import Intro from "./Intro"
 
-function Intro() {
+function Home() {
     return (
         <>
-            <TextSection />
-            <div className="flex-grow"></div>
-            <ImageSection />
+            <Intro />
         </>
-    );
+    )
 }
 
-
-export default Intro
+export default Home
